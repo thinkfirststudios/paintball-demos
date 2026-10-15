@@ -1,0 +1,131 @@
+{
+ "hero": {
+  "file": "hero",
+  "widths": [
+   1000,
+   2000
+  ],
+  "w": 2000,
+  "h": 1125,
+  "alt": "An inflatable tournament-layout field, empty, behind netting",
+  "label": "hero \u2014 empty inflatable field, no people",
+  "pexels": "15449209",
+  "m": {
+   "file": "hero-m",
+   "widths": [
+    600,
+    900
+   ],
+   "w": 900,
+   "h": 1125
+  }
+ },
+ "field-side": {
+  "file": "field-side",
+  "widths": [
+   800,
+   1600
+  ],
+  "w": 1600,
+  "h": 900,
+  "alt": "A masked adult player moving between two triangular inflatable bunkers",
+  "label": "the field from the touchline, masked adult",
+  "pexels": "15449212"
+ },
+ "snake-run": {
+  "file": "snake-run",
+  "widths": [
+   1000,
+   2000
+  ],
+  "w": 2000,
+  "h": 856,
+  "alt": "A low run of inflatable bunkers along the field, ground level",
+  "label": "low linked bunkers, no people",
+  "pexels": "15449209"
+ },
+ "gear-bench": {
+  "file": "gear-bench",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "Paint marks on the side of an inflatable bunker",
+  "label": "paint, stand-in",
+  "pexels": "30699386"
+ },
+ "masks-rack": {
+  "file": "masks-rack",
+  "widths": [
+   500,
+   1000
+  ],
+  "w": 1000,
+  "h": 1250,
+  "alt": "A paintball mask resting on a bench in the safe zone",
+  "label": "mask in the safe zone, no people",
+  "pexels": "29266098"
+ },
+ "jerseys": {
+  "file": "jerseys",
+  "widths": [
+   500,
+   1000
+  ],
+  "w": 1000,
+  "h": 1250,
+  "alt": "Plain shirts hanging on a rail, black and white",
+  "label": "jerseys on a rack, no people",
+  "pexels": "29906028"
+ },
+ "trophy-table": {
+  "file": "trophy-table",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "Gold trophies close up on a pale background",
+  "label": "trophy table, no people",
+  "pexels": "6532363"
+ },
+ "player-masked": {
+  "file": "player-masked",
+  "widths": [
+   500,
+   1000
+  ],
+  "w": 1000,
+  "h": 1250,
+  "alt": "A single masked adult player behind a bunker, face fully covered",
+  "label": "masked adult player",
+  "pexels": "32886517"
+ },
+ "paint-case": {
+  "file": "paint-case",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "A paint mark on a counter surface beside a tray",
+  "label": "paint, stand-in",
+  "pexels": "6593538"
+ },
+ "safe-zone": {
+  "file": "safe-zone",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "A large empty indoor hall under even lighting",
+  "label": "the hall and safe zone, no people",
+  "pexels": "36293741"
+ }
+}

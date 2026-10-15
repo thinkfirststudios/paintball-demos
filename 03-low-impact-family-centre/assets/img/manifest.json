@@ -1,0 +1,143 @@
+{
+ "hero": {
+  "file": "hero",
+  "widths": [
+   1000,
+   2000
+  ],
+  "w": 2000,
+  "h": 1125,
+  "alt": "A party room laid for a group, round tables and balloons, no people",
+  "label": "hero \u2014 party room set, no people",
+  "pexels": "11522856",
+  "m": {
+   "file": "hero-m",
+   "widths": [
+    600,
+    900
+   ],
+   "w": 900,
+   "h": 1125
+  }
+ },
+ "gear-rack": {
+  "file": "gear-rack",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "A paintball mask on a bench",
+  "label": "gear laid out, no people",
+  "pexels": "29266098"
+ },
+ "masks-laid-out": {
+  "file": "masks-laid-out",
+  "widths": [
+   1000,
+   2000
+  ],
+  "w": 2000,
+  "h": 856,
+  "alt": "A paintball mask on a bench, wide",
+  "label": "masks laid out, no people",
+  "pexels": "29266098"
+ },
+ "player-masked": {
+  "file": "player-masked",
+  "widths": [
+   500,
+   1000
+  ],
+  "w": 1000,
+  "h": 1250,
+  "alt": "A single masked adult player, face fully covered, soft daylight",
+  "label": "masked adult player",
+  "pexels": "30699386"
+ },
+ "field-empty": {
+  "file": "field-empty",
+  "widths": [
+   800,
+   1600
+  ],
+  "w": 1600,
+  "h": 900,
+  "alt": "A forest clearing in soft light, empty",
+  "label": "the field, empty",
+  "pexels": "36490920"
+ },
+ "party-table": {
+  "file": "party-table",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "A laid party table with flowers, plates and a party hat, no people",
+  "label": "party table, no people",
+  "pexels": "7328577"
+ },
+ "hopper-fill": {
+  "file": "hopper-fill",
+  "widths": [
+   550,
+   1100
+  ],
+  "w": 1100,
+  "h": 1100,
+  "alt": "A paint mark on a surface, close up",
+  "label": "paint, stand-in",
+  "pexels": "6593538"
+ },
+ "ball-on-bunker": {
+  "file": "ball-on-bunker",
+  "widths": [
+   550,
+   1100
+  ],
+  "w": 1100,
+  "h": 1100,
+  "alt": "Paint marks on an inflatable bunker",
+  "label": "paint on a bunker, macro",
+  "pexels": "30699386"
+ },
+ "run-sheet-wall": {
+  "file": "run-sheet-wall",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 1050,
+  "alt": "A whiteboard with sticky notes in columns on a wall",
+  "label": "a run sheet on a wall, no names",
+  "pexels": "7580842"
+ },
+ "group-walkout": {
+  "file": "group-walkout",
+  "widths": [
+   800,
+   1600
+  ],
+  "w": 1600,
+  "h": 900,
+  "alt": "A masked adult player behind a bunker",
+  "label": "masked adult player",
+  "pexels": "32886517"
+ },
+ "office-day": {
+  "file": "office-day",
+  "widths": [
+   800,
+   1600
+  ],
+  "w": 1600,
+  "h": 900,
+  "alt": "An empty room with chairs and tables arranged for a group",
+  "label": "a room set for an office day, no people",
+  "pexels": "5812870"
+ }
+}

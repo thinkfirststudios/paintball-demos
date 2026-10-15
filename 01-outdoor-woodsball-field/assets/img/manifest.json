@@ -1,0 +1,131 @@
+{
+ "hero": {
+  "file": "hero",
+  "widths": [
+   1000,
+   2000
+  ],
+  "w": 2000,
+  "h": 1125,
+  "alt": "A sunlit woodland clearing with fallen logs at the treeline",
+  "label": "hero \u2014 woodland clearing at the treeline, no people",
+  "pexels": "38110377",
+  "m": {
+   "file": "hero-m",
+   "widths": [
+    600,
+    900
+   ],
+   "w": 900,
+   "h": 1125
+  }
+ },
+ "paint-counter": {
+  "file": "paint-counter",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "A paint mark on a counter surface beside a tray",
+  "label": "paint on the counter, stand-in",
+  "pexels": "6593538"
+ },
+ "rental-rack": {
+  "file": "rental-rack",
+  "widths": [
+   500,
+   1000
+  ],
+  "w": 1000,
+  "h": 1250,
+  "alt": "A paintball mask resting on a bench",
+  "label": "mask on a bench, no people",
+  "pexels": "29266098"
+ },
+ "field-01": {
+  "file": "field-01",
+  "widths": [
+   800,
+   1600
+  ],
+  "w": 1600,
+  "h": 900,
+  "alt": "Tall woodland with sun through the trees",
+  "label": "woodland field, wide",
+  "pexels": "28523280"
+ },
+ "field-02": {
+  "file": "field-02",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 1050,
+  "alt": "A forest clearing in low sun",
+  "label": "treeline and natural cover, low sun",
+  "pexels": "36490920"
+ },
+ "staging": {
+  "file": "staging",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "Empty picnic benches and tables under trees",
+  "label": "staging area and picnic tables, empty",
+  "pexels": "17831887"
+ },
+ "group-walkout": {
+  "file": "group-walkout",
+  "widths": [
+   800,
+   1600
+  ],
+  "w": 1600,
+  "h": 900,
+  "alt": "A masked adult player behind a paint-marked inflatable bunker",
+  "label": "masked adult player, face fully covered",
+  "pexels": "32886517"
+ },
+ "mask-macro": {
+  "file": "mask-macro",
+  "widths": [
+   550,
+   1100
+  ],
+  "w": 1100,
+  "h": 1100,
+  "alt": "Close-up of a paintball mask lens",
+  "label": "mask macro, no face",
+  "pexels": "29266098"
+ },
+ "ball-on-bunker": {
+  "file": "ball-on-bunker",
+  "widths": [
+   550,
+   1100
+  ],
+  "w": 1100,
+  "h": 1100,
+  "alt": "Paint marks on the surface of an inflatable bunker",
+  "label": "paint on a bunker surface, macro",
+  "pexels": "30699386"
+ },
+ "first-timer-gear": {
+  "file": "first-timer-gear",
+  "widths": [
+   700,
+   1400
+  ],
+  "w": 1400,
+  "h": 933,
+  "alt": "A paintball mask on a bench, ready for the day",
+  "label": "mask on a bench, no people",
+  "pexels": "29266098"
+ }
+}
